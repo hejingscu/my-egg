@@ -1,0 +1,691 @@
+2017-12-28 15:58:40,218 ERROR 2624 [-/::1/-/5ms GET /] nodejs.ReferenceError: account is not defined
+    at HomeController.index (F:\hejing\egg\egg-example\app\controller\home.js:6:56)
+    at index.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:54:5
+    at new Promise (<anonymous>)
+    at Object.co (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:50:10)
+    at Object.toPromise (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:118:63)
+    at next (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:99:29)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:69:7)
+    at F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:54:5
+
+pid: 2624
+hostname: PC-20151119ORIB
+
+2017-12-28 15:59:10,573 ERROR 2624 [-/::1/-/1ms GET /] nodejs.ReferenceError: account is not defined
+    at HomeController.index (F:\hejing\egg\egg-example\app\controller\home.js:6:56)
+    at index.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:54:5
+    at new Promise (<anonymous>)
+    at Object.co (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:50:10)
+    at Object.toPromise (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:118:63)
+    at next (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:99:29)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:69:7)
+    at F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:54:5
+
+pid: 2624
+hostname: PC-20151119ORIB
+
+2017-12-28 15:59:11,240 ERROR 2624 [-/::1/-/1ms GET /] nodejs.ReferenceError: account is not defined
+    at HomeController.index (F:\hejing\egg\egg-example\app\controller\home.js:6:56)
+    at index.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:54:5
+    at new Promise (<anonymous>)
+    at Object.co (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:50:10)
+    at Object.toPromise (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:118:63)
+    at next (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:99:29)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:69:7)
+    at F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:54:5
+
+pid: 2624
+hostname: PC-20151119ORIB
+
+2017-12-28 16:00:26,148 ERROR 10160 [-/::1/-/7ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for F:\hejing\egg\egg-example\app\view\home.html
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:71:5)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: ''
+expected: true
+operator: '=='
+pid: 10160
+hostname: PC-20151119ORIB
+
+2017-12-28 16:05:22,703 ERROR 5984 [-/::1/-/14ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 5984
+hostname: PC-20151119ORIB
+
+2017-12-28 16:05:23,667 ERROR 5984 [-/::1/-/3ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 5984
+hostname: PC-20151119ORIB
+
+2017-12-28 16:12:35,689 ERROR 11404 [-/::1/-/17ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 11404
+hostname: PC-20151119ORIB
+
+2017-12-28 16:12:37,148 ERROR 11404 [-/::1/-/3ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 11404
+hostname: PC-20151119ORIB
+
+2017-12-28 16:12:38,112 ERROR 11404 [-/::1/-/1ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 11404
+hostname: PC-20151119ORIB
+
+2017-12-28 16:12:38,356 ERROR 11404 [-/::1/-/1ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 11404
+hostname: PC-20151119ORIB
+
+2017-12-28 16:12:38,550 ERROR 11404 [-/::1/-/1ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 11404
+hostname: PC-20151119ORIB
+
+2017-12-28 16:12:38,785 ERROR 11404 [-/::1/-/2ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 11404
+hostname: PC-20151119ORIB
+
+2017-12-28 16:12:39,304 ERROR 11404 [-/::1/-/2ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 11404
+hostname: PC-20151119ORIB
+
+2017-12-28 16:12:39,545 ERROR 11404 [-/::1/-/2ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 11404
+hostname: PC-20151119ORIB
+
+2017-12-28 16:12:39,989 ERROR 11404 [-/::1/-/3ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 11404
+hostname: PC-20151119ORIB
+
+2017-12-28 16:12:40,210 ERROR 11404 [-/::1/-/2ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 11404
+hostname: PC-20151119ORIB
+
+2017-12-28 16:14:06,424 ERROR 12608 [-/::1/-/24ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 12608
+hostname: PC-20151119ORIB
+
+2017-12-28 16:14:07,138 ERROR 12608 [-/::1/-/3ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 12608
+hostname: PC-20151119ORIB
+
+2017-12-28 16:14:07,723 ERROR 12608 [-/::1/-/2ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 12608
+hostname: PC-20151119ORIB
+
+2017-12-28 16:14:07,924 ERROR 12608 [-/::1/-/1ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 12608
+hostname: PC-20151119ORIB
+
+2017-12-28 16:14:08,291 ERROR 12608 [-/::1/-/1ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 12608
+hostname: PC-20151119ORIB
+
+2017-12-28 16:14:08,737 ERROR 12608 [-/::1/-/1ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 12608
+hostname: PC-20151119ORIB
+
+2017-12-28 16:14:09,113 ERROR 12608 [-/::1/-/1ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 12608
+hostname: PC-20151119ORIB
+
+2017-12-28 16:14:09,612 ERROR 12608 [-/::1/-/1ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 12608
+hostname: PC-20151119ORIB
+
+2017-12-28 16:14:09,802 ERROR 12608 [-/::1/-/1ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 12608
+hostname: PC-20151119ORIB
+
+2017-12-28 16:14:09,999 ERROR 12608 [-/::1/-/1ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 12608
+hostname: PC-20151119ORIB
+
+2017-12-28 16:14:10,200 ERROR 12608 [-/::1/-/2ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 12608
+hostname: PC-20151119ORIB
+
+2017-12-28 16:14:10,438 ERROR 12608 [-/::1/-/2ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:93:5)
+    at ContextView.[contextView#render] (F:\hejing\egg\egg-example\node_modules\.1.1.2@egg-view\lib\context_view.js:74:39)
+    at __dirname.next (<anonymous>)
+    at onFulfilled (F:\hejing\egg\egg-example\node_modules\.4.6.0@co\index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 12608
+hostname: PC-20151119ORIB
+
+2017-12-28 17:33:28,393 ERROR 13744 [-/::1/-/39ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 13744
+hostname: PC-20151119ORIB
+
+2017-12-28 17:38:15,564 ERROR 7816 [-/::1/-/39ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 7816
+hostname: PC-20151119ORIB
+
+2017-12-29 11:22:28,717 ERROR 12680 [-/::1/-/34ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 12680
+hostname: PC-20151119ORIB
+
+2017-12-29 11:22:32,523 ERROR 12680 [-/::1/-/14ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 12680
+hostname: PC-20151119ORIB
+
+2017-12-29 11:22:32,989 ERROR 12680 [-/::1/-/7ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 12680
+hostname: PC-20151119ORIB
+
+2017-12-29 11:22:33,222 ERROR 12680 [-/::1/-/3ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 12680
+hostname: PC-20151119ORIB
+
+2017-12-29 11:22:33,430 ERROR 12680 [-/::1/-/2ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 12680
+hostname: PC-20151119ORIB
+
+2017-12-29 11:22:33,630 ERROR 12680 [-/::1/-/3ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 12680
+hostname: PC-20151119ORIB
+
+2017-12-29 11:38:51,982 ERROR 12680 [-/::1/-/1ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 12680
+hostname: PC-20151119ORIB
+
+2017-12-29 14:06:44,542 ERROR 13532 [-/::1/-/7ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 13532
+hostname: PC-20151119ORIB
+
+2017-12-29 14:11:32,500 ERROR 13532 [-/::1/-/4ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: layout/layout.tpl
+  Error: template not found: layout/layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 13532
+hostname: PC-20151119ORIB
+
+2017-12-29 14:11:41,681 ERROR 13532 [-/::1/-/3ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 13532
+hostname: PC-20151119ORIB
+
+2017-12-29 14:11:42,282 ERROR 13532 [-/::1/-/2ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 13532
+hostname: PC-20151119ORIB
+
+2017-12-29 14:11:42,479 ERROR 13532 [-/::1/-/1ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 13532
+hostname: PC-20151119ORIB
+
+2017-12-29 14:11:42,664 ERROR 13532 [-/::1/-/1ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 13532
+hostname: PC-20151119ORIB
+
+2017-12-29 14:11:42,845 ERROR 13532 [-/::1/-/2ms GET /] nodejs.Template render error: (F:\hejing\egg\egg-example\app\view\home.tpl)
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+  Error: template not found: F:\hejing\egg\egg-example\app\layout\layout.tpl
+    at Object.exports.prettifyError (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:34:15)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:489:31
+    at eval (eval at _compile (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:568:24), <anonymous>:9:11)
+    at createTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:213:25)
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:210:13)
+    at handle (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:253:25)
+    at F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:264:21
+    at next (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:207:13)
+    at Object.exports.asyncIter (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\lib.js:214:5)
+    at NunjucksEnvironment.getTemplate (F:\hejing\egg\egg-example\node_modules\_nunjucks@3.0.1@nunjucks\src\environment.js:243:17)
+name: 'Template render error'
+pid: 13532
+hostname: PC-20151119ORIB
+
